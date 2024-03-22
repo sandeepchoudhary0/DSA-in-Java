@@ -13,6 +13,7 @@ public class best {
         }
       }
       return new int[]{first+second};
+        System.out.println(first+second);
     }
   
   }
