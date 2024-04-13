@@ -1,8 +1,10 @@
-import java.util.*;
 
-class Main {
-  public static void main (String[]args) {
-  ArrayList<Integer> numbers = new ArrayList<Integer>(30);
-  System.out.println(numbers);
-  }
+import java.util.*;
+public class main {
+    public static void main(String[] args) {
+        ArrayList<Integer> numbers = new ArrayList<Integer>();
+        numbers.add(1);
+        numbers.add(1,4);
+        System.out.println(numbers);
+    }
 }
