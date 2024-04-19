@@ -12,6 +12,13 @@ public class main {
         //Traversing
         for (int i = 0; i <ar.size(); i++) {
             System.out.println( ar.get(i));
+        ArrayList<String> stringlist = new ArrayList<String>(Arrays.asList("A","B","C","D"));
+        for(String letters:stringlist){
+            if (letters.equals()) {
+                System.out.println("It is present in the LIST");
+                
+            }
+        }
             
         }
     }
