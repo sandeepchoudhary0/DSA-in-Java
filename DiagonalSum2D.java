@@ -15,3 +15,4 @@ public class Exercise {
         return sum;
     }
 }
+{}
