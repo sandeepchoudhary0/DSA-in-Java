@@ -16,10 +16,16 @@ public class main {
         for(String letters:stringlist){
             if (letters.equals()) {
                 System.out.println("It is present in the LIST");
+                break;
                 
             }
         }
             
+    int index =stringList.indexOf("F");
+    System.out.println("The element in found at index: " + index); 
         }
     }
 }
+
+
+
