@@ -26,5 +26,7 @@ public class main {
         System.out.println(stringlist);
         stringlist.remove(1);
         System.out.println(stringlist);
+        stringlist.remove(2);
+        System.out.println(stringlist);
         }
     }
