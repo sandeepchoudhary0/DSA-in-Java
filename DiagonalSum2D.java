@@ -1,3 +1,4 @@
+import java.util.*;
 public class Exercise {
     public static int sumDiagonalElements(int[][] array){
 
