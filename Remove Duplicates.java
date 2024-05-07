@@ -1,3 +1,4 @@
+import java.util.*:
 public class Exercise {
     public static int[] removeDuplicates(int[] array) {
         int n = array.length;
