@@ -1,3 +1,4 @@
+import java.util.*;
 public class Exercise {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) {
