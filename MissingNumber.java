@@ -1,3 +1,4 @@
+import java.util.*;
 public class missing {
     
     static int findMissingNumberInArray(int[] arr) {
